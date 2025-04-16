@@ -1,0 +1,9 @@
+Test.java
+test-compile.bat
+test-run.bat
+out
+*.class
+*.txt
+src/app/.DS_Store
+.DS_Store
+doc.bat
