@@ -1,6 +1,7 @@
 # Parade
-Cloned From: https://github.com/yquanjun/CS102
-Demo: https://youtu.be/p5TE5lbNPRQ
+- Cloned From: https://github.com/yquanjun/CS102
+- Demo: https://youtu.be/p5TE5lbNPRQ
+
 ## Introduction
 Parade is a card game where the aim is to get the lowest score possible from the cards collected. Players will play the game on their console. Our application supports both single-player and multi-player game modes. For single-player mode, players will play against bots locally. For multi-player mode, players can play with each other through a Socket connection. Bots can optionally be added to a multi-player game. For more instructions on the rules of the game, refer to https://cdn.1j1ju.com/medias/8f/7e/8f-parade-rulebook.pdf. 
 
